@@ -19,4 +19,4 @@ Environment: Console-based application for simplicity and speed.
 Clone the Repository:
 
 ``` bash
-git clone https://github.com/your-username/university-student-management.git
+git clone https://github.com/MuhannadAZ/university-student-management.git
